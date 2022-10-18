@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\bin\Debug\net6.0\OOP-3_AbstractClassAndMethods.exe
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\bin\Debug\net6.0\OOP-3_AbstractClassAndMethods.deps.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\bin\Debug\net6.0\OOP-3_AbstractClassAndMethods.runtimeconfig.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\bin\Debug\net6.0\OOP-3_AbstractClassAndMethods.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\bin\Debug\net6.0\OOP-3_AbstractClassAndMethods.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\OOP-3_AbstractClassAndMethods.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\OOP-3_AbstractClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\OOP-3_AbstractClassAndMethods.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\OOP-3_AbstractClassAndMethods.AssemblyInfo.cs
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\OOP-3_AbstractClassAndMethods.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\OOP-3_AbstractClassAndMethods.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\refint\OOP-3_AbstractClassAndMethods.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\OOP-3_AbstractClassAndMethods.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\OOP-3_AbstractClassAndMethods.genruntimeconfig.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-3_AbstractClassAndMethods\OOP-3_AbstractClassAndMethods\obj\Debug\net6.0\ref\OOP-3_AbstractClassAndMethods.dll
